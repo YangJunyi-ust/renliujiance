@@ -1,0 +1,21 @@
+# Ignore everything in the data directory
+data/*
+
+# But re-include all .json files
+!data/*.json
+
+*.pt
+*.pth
+*.mp4
+*.mov
+*.png
+*.jpg
+*.jpeg
+
+.DS_Store
+__pycache__/
+*.py[cod]
+*.aux
+*.log
+*.out
+count_people.pdf
