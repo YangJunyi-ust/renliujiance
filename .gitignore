@@ -6,7 +6,6 @@ data/*
 
 *.pt
 *.pth
-*.mp4
 *.mov
 *.png
 *.jpg
